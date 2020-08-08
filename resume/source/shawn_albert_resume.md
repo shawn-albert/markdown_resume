@@ -20,7 +20,7 @@ The University of Chicago
   __2017 - 2020__
 
 Vanderbilt University
-: *Bachelor of Arts - BA*
+: *Bachelor of Arts - BA, Molecular and Cellular Biology | Medicine, Health & Society*
   __2012 - 2016__
 
 ------
@@ -42,7 +42,7 @@ Vanderbilt University
 ### Projects {#projects}
 
 Health Data Exchange
-  : Developed a pipeline that has enabled the consumption of data from Electronic Health Records through development of a data extraction process in Pyspark within a Hadoop environment, enriching data science models originally developed on claims-based datasets with semi-structured clinical data.
+  : Developed a pipeline that has enabled the consumption of data from Electronic Health Records through development of a data extraction process in PySpark within a Hadoop environment, enriching data science models originally developed on claims-based datasets with semi-structured clinical data.
 
 Provider Cost & Quality Metrics
   : Develop and maintain an in-production provider cost efficiency metric that is used by both internal and external stakeholders. This cost efficiency metric employs gradient boosting to incorporate 500+ variables to risk adjust down to the patient-episode level, having demonstrated over a 30% improvement in cost estimation capabilities.  
