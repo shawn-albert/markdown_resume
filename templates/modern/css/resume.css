@@ -59,7 +59,7 @@ hr {
     clear: both;
     border: none;
     border-top: 1px solid #CCC;
-    font-size: 1.2px;
+    font-size: 3px;
     line-height: 0;
     overflow: visible;
     page-break-after: avoid;
@@ -68,32 +68,35 @@ hr {
 h1 {
     margin: 0;
     padding: 0;
-    font-size: 24px;
+    font-size: 36px;
     letter-spacing: -1px;
     font-weight: normal;
 }
 h2 {
     margin: 0;
     padding: 0;
-    font-size: 18px;
+    font-size: 36px;
     font-style: italic;
     letter-spacing: -1px;
     font-weight: normal;
 }
 
+/* Left-aligned section heading, e.g. "Profile", "Education", "Technical", etc.*/
+
 h3 {
     margin: 0px 20px;
     padding: 0 0 .5em;
-    font-size: 150%;
+    font-size: 130%;
     font-style: italic;
     font-weight: normal;
 }
 
+/* Paragraph section for the "Profile" */
 h3+p {
     margin: .6em 0 16px;
     padding: 0;
     display: block;
-    font-size: 104%;
+    font-size: 108%;
     line-height: 24px;
 }
 
@@ -116,12 +119,12 @@ ul dl {
     padding: 0;
     width: 100%;
     dt {
-        font-size: 100%;
+        font-size: 140%;
     }
     dd {
         margin: 0 0 1em;
         padding: 0 2em 0 0;
-        font-size: .8em;
+        font-size: 1.0em;
         line-height: 1.5em;
     }
 }
@@ -132,6 +135,8 @@ ol {
     width: 84%;
     display: inline-block;
 }
+
+/* Technical skillset */
 
 ol li {
     margin: 0 0 0 1em;
@@ -152,15 +157,17 @@ dl {
     width: 78%;
     margin: 0;
     padding: 0;
+    /* Section headers, such as school or project name. */
     dt {
         margin: 0;
         padding: 0;
-        font-size: 140%;
+        font-size: 130%;
     }
     dd {
+        /* Degree, major, and body of text for description in experiences and project. */
         margin: 0 0 1.5em;
         padding: 0;
-        font-size: 110%;
+        font-size: 100%;
         line-height: 1.4em;
     }
     strong {
@@ -168,7 +175,7 @@ dl {
     }
     em {
         display: block;
-        font-size: 110%;
+        font-size: 100%;
         margin: .15em 0 .5em;
         font-style: bold;
     }
@@ -182,6 +189,6 @@ dl {
 
 #footer + p {
     width: 100%;
-    font-size: 11px;
+    font-size: 14px;
     text-align: center;
 }
