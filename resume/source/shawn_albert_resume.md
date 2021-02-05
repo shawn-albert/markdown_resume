@@ -71,7 +71,7 @@ CVS Health
 Blue Cross Blue Shield of IL, MT, NM, OK & TX
 : *Data Scientist*
   __2018 - 2020__
-  Employed data analysis, machine learning, predictive modeling, statistics, and visualization techniques to derive actionable insights. Partnered with senior medical directors and business development teams to leverage domain expertise and develop data-based solutions attuned to stakeholder needs. Present and explain technical findings to non-technical audiences to promote data-driven decision making.
+  Employed data analysis, machine learning, predictive modeling, statistics, and visualization techniques to derive actionable insights. Partnered with senior medical directors and business development teams to leverage domain expertise and develop data-based solutions attuned to stakeholder needs. Presented technical findings to non-technical audiences to promote data-driven decision making.
 
 University of Chicago Medicine
 : *Research Assistant*
